@@ -1,0 +1,68 @@
+id_abt,id_buy,label,pred_label_rule,name_abt,name_buy,pred_label_llm,raw_response,category
+35010,208117938,1,1,LG 30' White Freestanding Gas Range - LRG30357WH,LG 5.0 cu.ft. Freestanding Gas Range,0,NO_MATCH,rule_right_llm_wrong
+32022,204363358,1,1,Sony Bluetooth Adaptor/Portable Transmitter - TMRBT10,SONY STEREO BLUETOOTH HEADSET *NIC* - TMRBT10/TMRBT10A,0,NO_MATCH,rule_right_llm_wrong
+36299,208342524,1,1,Griffin Black iPhone 3G Wave Case - 8227IP2WVB,Griffin Protective Wave Case for Smart Phone - 8227-IP2WVB,0,NO_MATCH,rule_right_llm_wrong
+36083,206362623,1,1,Canon Deluxe Grey Leather Case - 2349B001,Canon PSC-1000 Semi-Hard Leather Case - 2349B001,0,NO_MATCH,rule_right_llm_wrong
+38399,210479062,1,1,Canon 2GB SD Secure Digital Card - 3505B001,Simpletech 2GB SD Card - 3505B001AA,0,NO_MATCH,rule_right_llm_wrong
+30533,205729817,1,1,Apple 1GB Silver iPod Shuffle - MB225LLA,Apple iPod Shuffle 1GB MP3 Player - MB226LL/A,0,NO_MATCH,rule_right_llm_wrong
+36097,208131008,1,1,Canon Deluxe Black Digital Camera Case - 2595B002,Canon PSC-85 Soft Camera Case - 2595B002,0,NO_MATCH,rule_right_llm_wrong
+30594,204939361,1,1,Audiovox Commander MT XM Satellite Radio Receiver - XMRVRFM002,Audiovox Satellite Radio Tuner,0,NO_MATCH,rule_right_llm_wrong
+17417,90120953,1,1,Sanus 13' - 30' VisionMount Flat Panel TV Silver Wall Mount - VMFS,Sanus Flat Panel TV Wall Mount - VMF,0,NO_MATCH,rule_right_llm_wrong
+17220,90141074,1,1,Panasonic 5-Pack DVD-RAM Discs - LMAF120LU5,Panasonic 3x DVD-RAM Media,0,NO_MATCH,rule_right_llm_wrong
+35231,208114686,1,1,LG LMX25981ST 24.7 Cu. Ft. Capacity Stainless Steel French Door Refrigerator - LMX25981SS,LG 25 Cu.Ft. Total Capacity 4 Door Refrigerator,0,NO_MATCH,rule_right_llm_wrong
+29866,205664973,1,1,LG WM2455HG 4.2 Cu Ft Pearl Gray Front Load Washer - WM2455G,LG 4.0 cu. ft. Capacity Front Load Washer w/ Sanitary cycle,0,NO_MATCH,rule_right_llm_wrong
+34476,206888012,1,1,Weber Premium Black Grill Cover - 7550,Weber Premium Cover for Genesis Sivler A Grills & Spirit E-200 Series,0,NO_MATCH,rule_right_llm_wrong
+33726,207993409,1,1,Boston Acoustics Solo AM/FM Large Display Clock Radio - HSOLOMDNT,Boston Acoustics Horizon Solo AM/FM Radio - HSOLOMNDT,0,NO_MATCH,rule_right_llm_wrong
+26563,202125720,1,1,Sony Digital Photo Printer Paper 120 Pack - SVMF120P,Sony Ribbon and Paper with Snap-Off Edges For DPP-FP50 Digital Photo Printer - SVMF120P,0,NO_MATCH,rule_right_llm_wrong
+35011,208117936,1,1,LG 30' Black Freestanding Gas Range - LRG30357BK,LG 5.0 cu.ft. Freestanding Gas Range,0,NO_MATCH,rule_right_llm_wrong
+33219,205562000,1,1,Peerless 32' - 50' Articulating Flat Panel TV Black Wall Arm - SA750PU,Peerless SmartMount 700 Series Articulating Wall Arm,0,NO_MATCH,rule_right_llm_wrong
+25749,202827715,1,1,Sanus 15' - 40' VisionMount Flat Panel TV Black Wall Mount - MT25B1,Sanus VisionMount Tilting Flat Panel TV Wall Mount - MT25-B1,0,NO_MATCH,rule_right_llm_wrong
+38480,204647332,1,1,iRobot Robotic Floor Washer - 74249,iRobot Roomba Scooba Robot Floor Washer,0,NO_MATCH,rule_right_llm_wrong
+29865,205664972,1,1,LG WM2233W 4.0 Cu Ft White Front Load Washer - WM2233WH,LG 3.8 Cu. Ft. 7-Cycle Extra-Large Capacity Washer - White,0,NO_MATCH,rule_right_llm_wrong
+36789,208154854,1,1,Brenthaven Sling I Titanium Laptop Carrying Bag For 13' MacBook - TR653ZMA,SLING I LAPTOP CASE - 18 INCH - 4.5 INCH - 13 INCH - 2211,0,NO_MATCH,rule_right_llm_wrong
+36084,205664938,1,1,Canon Deluxe Burgundy Leather Case - 2350B001,Canon PSC-1000 Semi-Hard Leather Case - 2350B001,0,NO_MATCH,rule_right_llm_wrong
+32877,204297424,1,1,Garmin Nuvi Portable Friction Mount - 0101090800,Garmin Portable Friction Mount,0,NO_MATCH,rule_right_llm_wrong
+27091,203136113,1,1,LG TROMM WM2688HNM 4.2 Cu. Ft. Navy Blue Front Load Allergiene SteamWasher - WM2688HNBL,LG Navy Blue SteamWasher 27',0,NO_MATCH,rule_right_llm_wrong
+38388,210399777,1,1,Canon Digital EOS Rebel XS Starter Kit - 9320A010,Canon Rebel XSi/XS Starter Kit - 9320A009,0,NO_MATCH,rule_right_llm_wrong
+10102,90106210,1,1,Omnimount Wall Speaker Mount - 20WLWH,OmniMount Stainless Steel Speaker Mount - 20.0 WALL-W,0,NO_MATCH,rule_right_llm_wrong
+29612,205106045,1,1,Sharp Over The Counter White Microwave Oven - R1211WH,Sharp 1100 Watt Over the Counter Microwave,0,NO_MATCH,rule_right_llm_wrong
+19631,202812646,1,1,Bose Second Zone Remote - PMC2,Bose PMCII Remote Control,0,NO_MATCH,rule_right_llm_wrong
+34848,208117930,1,1,LG Stainless Steel Freestanding Electric Range - LRE30453SS,LG 5.6 cu.ft. Freestanding Electric Range,0,NO_MATCH,rule_right_llm_wrong
+33601,204558176,1,1,TomTom GPS Mount And USB Car Charger - 9S00006,TOMTOM ONE XL Additional Mount Kit - 9S00.006,0,NO_MATCH,rule_right_llm_wrong
+25813,202973389,1,1,Tech Craft Avalon Series TV Stand - Black Finish - ABS32,Techcraft Veneto Series ABS32 TV Stand,0,NO_MATCH,rule_right_llm_wrong
+38781,207920831,1,1,Griffin Black TuneBuds Mobile For iPod And iPhone - 9410TUNBMBLB,Griffin TuneBuds Stereo Earset - 9410-TUNBMBLB,0,NO_MATCH,rule_right_llm_wrong
+32395,206745972,1,1,LG WM3988HWA 4.2 Cu Ft White Full Size SteamWasher And Dryer Combo - WM3988WH,Full Size Steam Washer and Dryer Combination with Allergiene Cycle,0,NO_MATCH,rule_right_llm_wrong
+13701,90108521,1,1,Sanus Euro Foundations Satellite Speaker Stand - EFSATS,Sanus Euro Foundation Series III Speaker Stand - EFSATSIII,0,NO_MATCH,rule_right_llm_wrong
+28148,203131413,1,1,LG WM3431W All-In-One White Washer And Dryer Combo - WM3431WH,LG Electronics 24' Washer/Dryer Combo: White,0,NO_MATCH,rule_right_llm_wrong
+36169,205691190,1,1,Sony Bud Style Headphones In Black - MDREX85LPBLK,Sony MDREX81LP Comfort Fit Ear Hanger Headphones- Choose Color (Black),0,NO_MATCH,rule_right_llm_wrong
+34926,208117932,1,1,LG Black Freestanding Electric Range - LRE30757BK,LG 5.6 cu.ft. Freestanding Electric Range,0,NO_MATCH,rule_right_llm_wrong
+29825,205664966,1,1,LG DLE3733W White XL Capacity Electric Dryer - DLE3733WH,LG XL Capacity Electric Dryer,0,NO_MATCH,rule_right_llm_wrong
+18040,203151779,1,1,Delonghi Oil Filters - FK8,DeLonghi 6-pc. Replacement Filters for Deep Fryer,0,NO_MATCH,rule_right_llm_wrong
+39038,204348269,1,1,Case Logic Black In-Car DVD Player Case - PDVK10,"Case Logic 10' In-Car DVD Player Case - 11' x 9.25' x 4' - Nylon, Koskin - Black (Black)",0,NO_MATCH,rule_right_llm_wrong
+22798,202143942,1,1,Sanus VMAV Black VisionMount Component Wall Shelf VMAVB In Black - VMAVB,Sanus VCD/DVD Wall Mount - VMAVB,0,NO_MATCH,rule_right_llm_wrong
+19628,202778257,1,1,Pioneer Wired Marine Remote Control Display - CDMR80D,Pioneer Nautica Marine Remote Control,0,NO_MATCH,rule_right_llm_wrong
+37091,207390618,1,1,Sony Cyber-Shot Black Digital Camera - DSCT500B,Sony Cyber-shot DSC-T300 Digital Camera - Black - DSCT300/B,0,NO_MATCH,rule_right_llm_wrong
+32875,202870173,1,1,Garmin 010-10723-02 Carrying Case - 0101072302,Garmin Leather GPS Case,0,NO_MATCH,rule_right_llm_wrong
+20466,201692695,1,1,Canon Black Ink Cartridge - Black - PG40BK,Canon Black Ink Cartridge - 0615B002,0,NO_MATCH,rule_right_llm_wrong
+36718,208930723,1,1,Nikon Graphite Black 14.5 Megapixel COOLPIX Digital Camera - COOLPIXS710BK,"Nikon COOLPIX S710 14 Megapixel Digital Camera w/3.6x Optical Wide-Angle Zoom, 3' LCD, Smile Mode, In-Camera Red-Eye Fix - Black - 26127",0,NO_MATCH,rule_right_llm_wrong
+38324,209393521,1,1,Griffin Black iPhone 3G Clarifi Protective Case With Built-In Close-Up Lens - 8245IP2MGNFI,Griffin 8245-IP2MGNFI Clarifi Protective case for Smartphone,0,NO_MATCH,rule_right_llm_wrong
+35987,207464939,1,1,Samsung Black 8.1 Megapixel Digital Camera - ECNV30ZBBA,Samsung NV30 Digital Camera - Silver - EC-NV30ZSBA/US,0,NO_MATCH,rule_right_llm_wrong
+32628,207554111,1,1,Apple 500GB Time Capsule Wireless Hard Drive - MB276LLA,Apple Time Capsule Network Hard Drive - MB277LL/A,0,NO_MATCH,rule_right_llm_wrong
+32280,205985719,1,1,LG DLEX8377WM White XL Capacity Electric SteamDryer - DLEX8377WH,The LG Electric SteamDryer,0,NO_MATCH,rule_right_llm_wrong
+13700,90111702,1,1,Sanus Euro Foundations Satellite Speaker Stand - EFSATB,Sanus Euro Foundation Series III Speaker Stand - EFSATBKIII,0,NO_MATCH,rule_right_llm_wrong
+33327,208464828,1,1,Weber Spirit SP-320 Stainless Steel Liquid Propane Gas Outdoor Grill - 3730001,Weber Summit SP-320 Stainless LP Gas Grill,0,NO_MATCH,rule_right_llm_wrong
+34253,206887992,1,1,Weber Gas Barbecue Rotisserie - 7519,Weber Genesis E/S series Rotisserie,0,NO_MATCH,rule_right_llm_wrong
+39054,207390496,1,1,OmniMount 37' - 63' Ultra Low Profile Series Large Flat Panel TV Black Mount - ULPTLBK,OmniMount Ultra Low Profile ULPT-L Flat Panel Wall Mount - ULPT-L A,0,NO_MATCH,rule_right_llm_wrong
+34638,209934621,1,1,Sony White Speaker Dock And Clock Radio For iPod And iPhone - ICFC1IPMK2WHT,SONY IPOD/PHONE DOCK CLOCK RADIO BLACK NIC - ICFC1IPMK2WHI,0,NO_MATCH,rule_right_llm_wrong
+34961,208114683,1,1,LG LFX25971SW 24.7 Cu. Ft. Smooth White French Door Bottom Freezer Refrigerator - LFX25971WH,LG 25 CF Refrigerator 3 Door White Tall,0,NO_MATCH,rule_right_llm_wrong
+29906,202139744,1,1,Audiovox Xpress XM Satellite Radio Receiver Home Kit - XMH10A,Audiovox XMH10 Home Docking Kit,0,NO_MATCH,rule_right_llm_wrong
+33966,205561996,1,1,Peerless 32' - 45' Articulating Flat Panel TV Black Wall Arm - SA745PU,Peerless SmartMount 700 Series Articulating Wall Arm,0,NO_MATCH,rule_right_llm_wrong
+29829,205664964,1,1,LG DLE5955W White XL Capacity Electric Dryer - DLE5955WH,LG Electric Dryer with 9 Drying Programs,0,NO_MATCH,rule_right_llm_wrong
+35111,201701865,1,1,Peerless 37' - 60' Flat Panel TV Black Wall Mount  - ST660P,Peerless Universal Tilt Wall Mount,0,NO_MATCH,rule_right_llm_wrong
+33021,203154818,1,1,Electrolux Harmony Series Canister Vacuum - EL6985B,"Harmony EL6985A Vacuum (Canister, HEPA)",0,NO_MATCH,rule_right_llm_wrong
+35014,208117937,1,1,LG 30' Stainless Steel Freestanding Gas Range - LRG30357SS,LG 5.0 cu.ft. Freestanding Gas Range,0,NO_MATCH,rule_right_llm_wrong
+35903,205769439,1,1,Sony 2GB Memory Stick Micro (M2) - MSA2GU2,Sony 2GB Memory Stick Micro (M2) - MSA2GD,0,NO_MATCH,rule_right_llm_wrong
+32228,205985718,1,1,LG DLEX8377NM Navy Blue XL Capacity Electric SteamDryer - DLEX8377BLUE,The LG Electric SteamDryer,0,NO_MATCH,rule_right_llm_wrong
+33532,204071217,1,1,TomTom GPS Mount And USB Car Charger - 9N00101,TOMTOM GPS Receiver Accessory Kit - 9N00.101,0,NO_MATCH,rule_right_llm_wrong
+34927,208117933,1,1,LG Stainless Steel Freestanding Electric Range - LRE30757SS,LG 5.6 cu.ft. Freestanding Electric Range,0,NO_MATCH,rule_right_llm_wrong
+38798,205852250,1,1,Peerless Black Flat Panel TV Stand - SS550PBK,Peerless SS550P Flat Panel TV Stand,0,NO_MATCH,rule_right_llm_wrong

@@ -1,0 +1,65 @@
+id_abt,id_buy,label,pred_label_rule,name_abt,name_buy,pred_label_llm,raw_response,category
+32664,209975310,1,0,iHome Black Clock Radio Audio System For iPod - IH9BR,IH9B6R BLACK ALARM CLOCK F/IPODPERPCHARGES DOCKED IPOD REMOTE CONTROL,1,MATCH,llm_right_rule_wrong
+23864,204636071,1,0,Hoover Bagged Tempo Widepath Upright Vacuum - U5140,Hoover Company #U5140900 Wide Path Bag Up Vac,1,MATCH,llm_right_rule_wrong
+36962,207899814,1,0,Sanus Black Single-Column AV Component System - VF2012,Wal-mt Furn Comp Shlf - VF2012-B1,1,MATCH,llm_right_rule_wrong
+24571,202537967,1,0,Panasonic 2 Line 5.8 GHz FHSS GigaRange Expandable Digital Cordless Answering System - Black Finish - KXTG6700B,Panasonic KX-TG6700B Cordless Telephone,1,MATCH,llm_right_rule_wrong
+34125,205567912,1,0,Belkin Cush Top For Computer Laptop - F8N044ORG,Belkin Orange Cushtop,1,MATCH,llm_right_rule_wrong
+29228,204793090,1,0,Sony Black Active Speaker System - SRSA212BK,Computer Speakers - SRSA212/BLK,1,MATCH,llm_right_rule_wrong
+30602,208111280,1,0,Panasonic Integrated Black Telephone System With All-Digital Answering System - KXTS620B,CORDED TELEPHONE - KEYPAD - SINGLE-LINE OPERATION - 2-WAY - LCD DISPLAY - BLACK - KX-TS620B,1,MATCH,llm_right_rule_wrong
+36172,207907535,1,0,Sony Active Style Headphones In Black - MDRAS50G,Sport Neckband Earbuds - MDR AS50G,1,MATCH,llm_right_rule_wrong
+36309,208409785,1,0,iHome iPod & iPhone Clock Radio & Audio System - IP99BR,SDI Technologies IP99BR8 Clock Radio For iPod/iPhone,1,MATCH,llm_right_rule_wrong
+33026,204230770,1,0,Sanus 15' - 37' VisionMount Full-Motion Flat Panel TV Black Wall Mount - MF215B1,Sanus MF215-B1 Extending Full Motion Mount,1,MATCH,llm_right_rule_wrong
+33510,205516750,1,0,Monster Mini-To-Mini iCable For Car - AICMINIIP3S,Monster Cable iCable A IC MINI IP-3 S Audio Stereo Cable - 123870,1,MATCH,llm_right_rule_wrong
+33801,207544265,1,0,Kenwood 6.1' All-In-One Double-Din In-Dash Navigation - DNX5120,DNX5120 All-in-One Navigation/DVD Entertainment System,1,MATCH,llm_right_rule_wrong
+34557,207907559,1,0,Sony Black Earbud Style Headphones - MDREX55BK,Ex Series Earbuds Black - MDR EX55/BLK,1,MATCH,llm_right_rule_wrong
+24789,203017911,1,0,Terk Mini Tuner Cartridge For XM Ready Home Products - CNP2000,Audiovox CNP2000 XM Mini-Tuner,1,MATCH,llm_right_rule_wrong
+37145,202870173,0,1,Garmin Nuvi 765T GPS Navigation System - 0100071520,Garmin Leather GPS Case,0,NO_MATCH,llm_right_rule_wrong
+36143,207907552,1,0,Sony Bud Style Headphones In Red - MDRED12LPRED,Bass Lover Earbuds Red - MDRED12LP/RED,1,MATCH,llm_right_rule_wrong
+38831,201854347,1,0,Tripp-Lite Black 25 Foot SVGA HD15M To HD15M Computer Monitor Cable - P502025,Tripp Lite Video Cable - P502-025,1,MATCH,llm_right_rule_wrong
+34719,209687172,0,1,Panasonic DECT 6.0 Black Expandable Digital Cordless Phone - KXTG9361B,Panasonic Lumix DMC-FZ28 Digital Camera - Black,0,NO_MATCH,llm_right_rule_wrong
+37652,210254965,1,0,Canon Printer Ink Cartridge 4 Colors Pack - 2946B004,Canon CLI-221 Color Ink 4-Pack (Black/ Cyan/ Magenta/ Yellow) - 2946B004,1,MATCH,llm_right_rule_wrong
+29861,204792876,1,0,LG LSC21943ST Stainless Steel Side By Side Refrigerator - LSC21943SS,"LG Electronics LSC21943ST 21.0 cu. ft. Counter-Depth Side-by-Side Refrigerator with 3 Spill-Protector Glass Shelves, SpacePlus Ice System, Digital LED Display and CustomCube Automatic Ice Maker",1,MATCH,llm_right_rule_wrong
+38108,208893661,1,0,Olympus Black 10 Megapixels Digital Camera - SP565UZ,"Olympus SP-565 UZ 10 Megapixel Digital Camera w/ 20x Wide-Angle Optical Zoom, Sensor-Shift Image Stabilization, Face Detection, & 13.5 fps Hight-Speed Sequential Shooting - 226480",1,MATCH,llm_right_rule_wrong
+37805,209085175,1,0,Samsung S3 Black Multimedia Player - YPS3JAB,SAMSUNG 4GB PORTABLE MLTIMDIA PLYR BLK - YPS-S3JAB/XAA,1,MATCH,llm_right_rule_wrong
+36151,207907558,1,0,Sony EX Ear Bud Headphones In White - MDREX32LPWHI,Ex Series Earbuds Wht - MDR EX32LP/WHI,1,MATCH,llm_right_rule_wrong
+29008,204792886,1,0,LG WM2016CW 3.6 Cu Ft White Front Load Washer - WM2016CWH,"LG Electronics WM2016CW 27' Front-Load Washer with 3.5 cu. ft. Capacity, 5 Wash Programs, 5 Temperature Levels, 1050 RPM Maximum and SenseClean System",1,MATCH,llm_right_rule_wrong
+30603,208111279,1,0,Panasonic Integrated White Telephone System With All-Digital Answering System - KXTS620W,CORDED TELEPHONE - KEYPAD - SINGLE LINE OPERATION - LCD DISPLAY - CALLER ID; CAL - KX-TS620W,1,MATCH,llm_right_rule_wrong
+36507,208939028,1,0,Onkyo THX Ultra 2 Plus Certified 7.1 Channel Home Theater Black Receiver - TXSR806B,"TX-SR806B Receiver (7.1 Channels, 130 W/Channel, 0.08% THD, Supports 8 Devices) - TXSR806B",1,MATCH,llm_right_rule_wrong
+27789,204292470,1,0,Weber Genesis E-310 Liquid Propane Black Outdoor Grill - 3741001,Genesis Series 3741001 60' Freestanding Gas Grill with 637 sq. in. Cooking Surface & 3 Stainless Steel Burners: Black LP Gas,1,MATCH,llm_right_rule_wrong
+37360,202784323,1,0,Pioneer 6.5' 2-Way Marine White Speakers - TSMR1640FM,Pioneer Nautica TS-MR1640 Marine Speaker - TS-MR1640,1,MATCH,llm_right_rule_wrong
+29827,205664963,1,0,LG Pearl Gray XL Capacity Electric Dryer - DLE5955G,"LG 7.3 cu.ft. Front Control, ST Drum,Chrome Door Trim (Pearl Gray)",1,MATCH,llm_right_rule_wrong
+36149,207907550,1,0,Sony EX Ear Bud Headphones In Black - MDREX32LPBLK,Ex Series Earbuds Black - MDR EX32LP/BLK,1,MATCH,llm_right_rule_wrong
+38834,209310268,1,0,Nokia T-Mobile Unlocked Cellular Phone - N96,"Nokia N96 Unlocked Phone - 16GB, 5MP Camera with Carl Zeiss Optics and Dual-LED Flash and Auto-Focus, Built-In GPS, WiFi, - 002G6Q3",1,MATCH,llm_right_rule_wrong
+24493,202900030,1,0,Panasonic 2-Line Integrated Phone System - White Finish - KXTS3282W,Panasonic KX-TS3282W Corded Telephone,1,MATCH,llm_right_rule_wrong
+27964,203136103,1,0,LG LRBP1031 White Bottom-Freezer Refrigerator - LRBP1031WH,LG Electronics LRBP1031W 10 Cu. Ft. Refrigerator,1,MATCH,llm_right_rule_wrong
+36452,207660498,0,1,Samsung 52' Series 8 LCD Black Flat Panel HDTV - LN52A860,Samsung 5 Series LN37A550 37' LCD TV,0,NO_MATCH,llm_right_rule_wrong
+18567,208456203,1,0,Whirlpool 24' Built-In Dishwasher - DU1055SS,Whirlpool DU1055XTSS 6' Console Undercounter Dishwasher (Stainless Steel),1,MATCH,llm_right_rule_wrong
+24153,208715855,1,0,Whirlpool 10' WHP1000SQ Duet Washer And Dryer White Pedestal Without Drawer - WHP1000WH,Pedistal for Duet Sport Electric Washer/Dryer - WHP1000SQ,1,MATCH,llm_right_rule_wrong
+18087,203150909,1,0,Danby Designer Portable Dishwasher - DDW1805WH,"DDW1805W 18-in. Portable Dishwasher (White, Energy Star)",1,MATCH,llm_right_rule_wrong
+33645,206928607,1,0,Toshiba Black DVD Recorder/VCR Combinaton With Built-In Digital Tuner - DVR660,Toshiba D-VR660 DVD/VCR Combo,1,MATCH,llm_right_rule_wrong
+32431,202827677,1,0,Peerless 42' - 71'  Articulating Flat Panel TV Silver Dual Wall Arm Mount - PLAV70UNLPS,Peerless PLAV70-UNLP-S Articulating Dual-Arm with Vertical Adjustment - PLAV70 UNLPS,1,MATCH,llm_right_rule_wrong
+36097,205838157,1,0,Canon Deluxe Black Digital Camera Case - 2595B002,Canon PSC-85 Deluxe Soft Case for the Powershot-A650 IS and A720 IS - 2595B002(AA),1,MATCH,llm_right_rule_wrong
+38653,210571462,1,0,Sennheiser Orange And Silver In Ear Headphones - CX380,Sennheiser CX380 Sennheiser CX 380 Sport II Grey/Orange,1,MATCH,llm_right_rule_wrong
+28256,208289993,0,1,Sony SLV-D380P Black DVD VHS Combo Player - SLVD380P,Sony RDR-VX560 DVD/VCR Combo,0,NO_MATCH,llm_right_rule_wrong
+20534,203022202,1,0,Pioneer Voice Command Pack - Black Finish - CDVC1,Pioneer Car Audio Remote Control - CDVC1,1,MATCH,llm_right_rule_wrong
+29304,206901618,1,0,Haier 13' Silver Tube TV - HTR13,13in Crt Tv W/atsc Tuner - HTR13,1,MATCH,llm_right_rule_wrong
+29072,208456130,1,0,Alpine 2-DIN DVD/CD/MP3/WMA Receiver/AV Head Unit - IVAW205,ALPINE IVA-W205 Car Video Player,1,MATCH,llm_right_rule_wrong
+35309,208504378,1,0,LG 32' Black LCD Flat Panel HDTV With Built In DVD Player - 32LG40,LG 32LG40 32' TV/DVD Combo,1,MATCH,llm_right_rule_wrong
+35431,209026638,0,1,Panasonic VIERA 32' Class Widescreen LCD HDTV In Black - TC32LZ800,Toshiba 52RV535U - 52' Widescreen 1080p LCD HDTV w/ Cinespeed - Piano Black,0,NO_MATCH,llm_right_rule_wrong
+19204,203389382,1,0,OmniMount G-303 Gray Stellar Series Audio Tower - G303GR,OmniMount 3-Shelf Large-Component Tower - STELLARG303G,1,MATCH,llm_right_rule_wrong
+34548,207907555,1,0,Sony White Earbud Style Headphones - MDREX55WH,Ex Series Earbuds Wht - MDR EX55/WHI,1,MATCH,llm_right_rule_wrong
+18564,208715747,1,0,Whirlpool 24' Built-In Dishwasher - DU1055BK,Full Console Dishwasher with 4 Automatic Cycles - DU1055XTSB,1,MATCH,llm_right_rule_wrong
+24034,50017228,1,0,Sony DVD Remote Control For PS2 - Black Finish - 711719707608,PlayStation 2 DVD Remote - 97076,1,MATCH,llm_right_rule_wrong
+38329,210227282,1,0,Panasonic Black Hi-Definition Camcorder Starter Kit - VBGVBB1STRKIT,Battery and Bag Bundle for Panasonic Camcorders - VBG-VBB1STRKIT,1,MATCH,llm_right_rule_wrong
+34559,207907557,1,0,Sony Pink Earbud Style Headphones - MDREX55P,Ex Series Earbuds Pnk - MDR EX55/PNK,1,MATCH,llm_right_rule_wrong
+34454,207390180,1,0,Polk Audio Black 10' Powered Subwoofer - PSW110BK,polkaudio PSW Series PSW110 Powered Subwoofer,1,MATCH,llm_right_rule_wrong
+32906,203324965,1,0,Sirius Dock And Play Universal Vehicle Kit - SUPV1,Directed Electronics SUPV1 Car Kit,1,MATCH,llm_right_rule_wrong
+35485,206901613,1,0,Haier 15' Black Flat Panel LCD HDTV DVD Combo - HLC15R,15in Lcd/dvd Tv Combo - HLC15R,1,MATCH,llm_right_rule_wrong
+35022,208117925,1,0,LG Over-The-Range Black Microwave Oven - LMV1680BK,LG 1.6 cu.ft. Over the Range Microwave,1,MATCH,llm_right_rule_wrong
+35019,208117926,1,0,LG Over-The-Range White Microwave Oven - LMV1680WH,LG 1.6 cu.ft. Over the Range,1,MATCH,llm_right_rule_wrong
+29902,205665803,1,0,TiVo HD Digital Video Recorder (180 Hour) - TCD652160,Tivo TIV652160 Tivo High Definition,1,MATCH,llm_right_rule_wrong
+23519,208456185,1,0,Whirlpool Duet Sport Front Loading White Washer - White Finish - WFW8300SWH,Whirlpool WFW8300SW 27' Front-Load Washer w/3.4 Cu. Ft. Capacity (White),1,MATCH,llm_right_rule_wrong
+30734,207907430,1,0,Tech Craft Veneto Series Black TV Stand - ABS60BK,Techcraft ABS60 TV Stand,1,MATCH,llm_right_rule_wrong
+34361,207642497,1,0,Samsung Black DVD/VHS Combo Recorder - DVDVR375,"Samsung DVD-VR375 DVD/VCR Combo - DVD+RW, DVD-RW, DVD-RAM, DVD+R, DVD-R, VHS, CD-RW - DVD Video, CD-DA, MP3, MPEG-4, WMA, JPEG, DivX Playback - Progressive Scan",1,MATCH,llm_right_rule_wrong
+36705,208930722,1,0,Nikon Black 13.5 Megapixel COOLPIX Digital Camera - COOLPIXP6000BK,"Nikon COOLPIX P6000 13 Megapixels Digital Camera w/ 4x Wide Angle Optical Zoom, 2.7' Hi-Res LCD, Optical VR Image Stabilization, Face Priority AF & TV Movies with Sound - Black - 26135",1,MATCH,llm_right_rule_wrong
+38574,210190784,1,0,Sony BD/DVD Home Theater System - BDVIS1000,Sony BDV-IS1000 Blu-ray Disc Home-Theater System - Precision Cinema HD via HDMI upscaler / BRAVIA Theatre Sync direct key / x.v.Color / XMB Xross Media Bar / 800Hz Cutoff Frequency,1,MATCH,llm_right_rule_wrong
