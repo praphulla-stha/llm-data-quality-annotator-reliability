@@ -1,0 +1,3 @@
+Method,Precision,Recall,F1,Accuracy
+Rule-based (manufacturer-in-title),0.564,1.0,0.721,0.622
+LLM zero-shot,0.827,0.84,0.833,0.836

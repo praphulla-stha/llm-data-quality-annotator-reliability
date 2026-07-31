@@ -1,0 +1,147 @@
+id,title,manufacturer_shown,true_manufacturer,is_mislabeled,rule_pred_mislabeled,llm_pred_mislabeled,raw_response,category
+b000i3ec9y,zonealarm anti-spyware,zone labs,zone labs,0,1,0,CORRECT,llm_right_rule_wrong
+b000922dwc,zonealarm firewall pro 5 (free upgrade to new version),zone labs,zone labs,0,1,0,CORRECT,llm_right_rule_wrong
+b000qgixde,the guild 2 - pirates of the seas,dreamcatcher interactive,dreamcatcher interactive,0,1,0,CORRECT,llm_right_rule_wrong
+b000kehnvu,symc backup exec aofo 11d win advanced open file option,symantec,symantec,0,1,0,CORRECT,llm_right_rule_wrong
+b0002b0qfg,imsi resume writer deluxe [lb],imsi design,imsi design,0,1,0,CORRECT,llm_right_rule_wrong
+b000flcn40,encyclopedia of our living oceans,dk multimedia,dk multimedia,0,1,0,CORRECT,llm_right_rule_wrong
+b0007d8eq2,crystal reports xi developer,business objects,business objects,0,1,0,CORRECT,llm_right_rule_wrong
+b000ra778g,wheel of fortune deluxe,encore,encore,0,1,0,CORRECT,llm_right_rule_wrong
+b0007lw22g,apple ilife '06 (mac dvd) [older version],apple computer,apple computer,0,1,0,CORRECT,llm_right_rule_wrong
+b0001bg5gq,clip art and more 250 000 (jewel case),imsi design,imsi design,0,1,0,CORRECT,llm_right_rule_wrong
+b000hbys5k,quickbooks simple start 2007,intuit,intuit,0,1,0,CORRECT,llm_right_rule_wrong
+b000fovsha,alliance future combat,strategy first,strategy first,0,1,0,CORRECT,llm_right_rule_wrong
+b0000azk3v,extensis smartscale 1-user ( pxe-11433 ),extensis corporation,extensis corporation,0,1,0,CORRECT,llm_right_rule_wrong
+b0000swrmq,lotus dev. ws bus int monitor v4.2.4-multi plat mp eng ( af04mna ),lotus development corp,lotus development corp,0,1,0,CORRECT,llm_right_rule_wrong
+b000bc38o2,media studio for psp standard editon,encore software,encore software,0,1,0,CORRECT,llm_right_rule_wrong
+b000evo8h6,student home learning system for pc/mac,fogware publishing,fogware publishing,0,1,0,CORRECT,llm_right_rule_wrong
+b000bcicxy,vivaldi's musical adventure pod,fogware publishing,fogware publishing,0,1,0,CORRECT,llm_right_rule_wrong
+b000exu99k,jumpstart advanced preschool v2.0,knowledge adventure,knowledge adventure,0,1,0,CORRECT,llm_right_rule_wrong
+b000az841m,wasp bar code - wasp bar code labeler - complete package - 3 users - std - cd -,wasp technologies,wasp technologies,0,1,0,CORRECT,llm_right_rule_wrong
+b000jx5nm8,audio success suite edition:sales success,topics entertainment,topics entertainment,0,1,0,CORRECT,llm_right_rule_wrong
+b00005wf9v,swat 4: special weapons and tactics,vivendi universal,vivendi universal,0,1,0,CORRECT,llm_right_rule_wrong
+b000ivhozk,instant immersion language lab deluxe edition,topics entertainment,topics entertainment,0,1,0,CORRECT,llm_right_rule_wrong
+b000pg8kxs,the print shop elements: labels & logos sb cs by the print shop,encore software,encore software,0,1,0,CORRECT,llm_right_rule_wrong
+b000fcyts2,zend studio 5.1 (win/mac),zend technologies inc.,zend technologies inc.,0,1,0,CORRECT,llm_right_rule_wrong
+b000v7rij8,my guitar,emedia,emedia,0,1,0,CORRECT,llm_right_rule_wrong
+b000az16r6,mobileinventory additional mobile license,wasp technologies,wasp technologies,0,1,0,CORRECT,llm_right_rule_wrong
+b000szyqam,make music allegro 2007 labpack - 5 user,makemusic!,makemusic!,0,1,0,CORRECT,llm_right_rule_wrong
+b000h16p9m,quicken 2007 basic,intuit,intuit,0,1,0,CORRECT,llm_right_rule_wrong
+b000hlt5j4,designcad v 17,imsi,imsi,0,1,0,CORRECT,llm_right_rule_wrong
+b0002uhuii,encore the big box of art 410 000 ( 460001 ),encore software,encore software,0,1,0,CORRECT,llm_right_rule_wrong
+b000nwsclo,photoshop elements 5 and premiere elements 3 bundle win minibox (29180248),adobe,adobe,0,1,0,CORRECT,llm_right_rule_wrong
+b000jx5ppi,photo go,sony media software,sony media software,0,1,0,CORRECT,llm_right_rule_wrong
+b00004vx3p,easy drums (jewel case),arcmedia,arcmedia,0,1,0,CORRECT,llm_right_rule_wrong
+b000enucs8,punch! master landscape professional & home design v 10.0,punch! software,punch! software,0,1,0,CORRECT,llm_right_rule_wrong
+b000aoz7jk,net ad creator,laughing bird,laughing bird,0,1,0,CORRECT,llm_right_rule_wrong
+b0002i6l7g,sibelius 4 professional edition,sibelius software ltd.,sibelius software ltd.,0,1,0,CORRECT,llm_right_rule_wrong
+b000etyt5o,ares rising,interplay,interplay,0,1,0,CORRECT,llm_right_rule_wrong
+b0002ip4lu,test and improve your memory (dvd box),tri synergy,tri synergy,0,1,0,CORRECT,llm_right_rule_wrong
+b00007e8d4,multiplication and division grades 3-4,school zone,school zone,0,1,0,CORRECT,llm_right_rule_wrong
+b000f7bps4,palo alto marketing plan pro 9.0,palo alto software,palo alto software,0,1,0,CORRECT,llm_right_rule_wrong
+b000b6n2o4,webroot spy sweeper antispyware 5.x,webroot software,webroot software,0,1,0,CORRECT,llm_right_rule_wrong
+b000rsk7k8,ufo afterlight,topware interactive,topware interactive,0,1,0,CORRECT,llm_right_rule_wrong
+b000m9c70k,spring cleaning 9.0 for mac os 10.4 & above,aladdin systems,aladdin systems,0,1,0,CORRECT,llm_right_rule_wrong
+b000exw510,jumpstart advanced 2nd grade v2.0,knowledge adventure,knowledge adventure,0,1,0,CORRECT,llm_right_rule_wrong
+b000j588g4,photo explosion 3.0,nova development,nova development,0,1,0,CORRECT,llm_right_rule_wrong
+b000ap0h94,kids power fun for little ones,topics entertainment,topics entertainment,0,1,0,CORRECT,llm_right_rule_wrong
+b000mg2kpk,lightroom 1 mlp retail ue 1u,adobe,adobe,0,1,0,CORRECT,llm_right_rule_wrong
+b000gkli0a,hoyle card games 2007,encore software,encore software,0,1,0,CORRECT,llm_right_rule_wrong
+b000hpjgw6,pc hoyle jewels: swap & drop it,encore software,encore software,0,1,0,CORRECT,llm_right_rule_wrong
+b00008nruc,instant home cooking (jewel case),topics entertainment,topics entertainment,0,1,0,CORRECT,llm_right_rule_wrong
+b00070j14y,super solvers - spellbound! ! - school edition for mac,learning company,learning company,0,1,0,CORRECT,llm_right_rule_wrong
+b000fem8ew,learn2 training for microsoft excel,topics entertainment - software (consignment),topics entertainment - software (consignment),0,1,0,CORRECT,llm_right_rule_wrong
+b0009hmx36,procurve vpn client software unlimited client licenses,hewlett packard,hewlett packard,0,1,0,CORRECT,llm_right_rule_wrong
+b00009vrfk,math missions: the amazing arcade adventure grades 3-5,scholastic,scholastic,0,1,0,CORRECT,llm_right_rule_wrong
+b000hvtk9e,1pk internet sec ste 2007 oem,ca - oem,ca - oem,0,1,0,CORRECT,llm_right_rule_wrong
+b00023azve,family tree maker 11.2 collector's edition,encore,encore,0,1,0,CORRECT,llm_right_rule_wrong
+b000j54pac,photo explosion deluxe 3.0,nova development,nova development,0,1,0,CORRECT,llm_right_rule_wrong
+b00019tb00,final cut express 2.0 upgrade,apple computer,apple computer,0,1,0,CORRECT,llm_right_rule_wrong
+b0000ycfdq,dinosaurs,topics entertainment,topics entertainment,0,1,0,CORRECT,llm_right_rule_wrong
+b000gaoxgg,upgrade terminal emulation software 2006 with media 1u,esker,esker,0,1,0,CORRECT,llm_right_rule_wrong
+b000axs7vg,superstart! science arcade,selectsoft publishing,selectsoft publishing,0,1,0,CORRECT,llm_right_rule_wrong
+b000o3ek2m,elementary advantage 2008,encore software,encore software,0,1,0,CORRECT,llm_right_rule_wrong
+b000ju9ndq,diskeepeer 2007 admin upgrade sngl lic pack,diskeeper corporation,diskeeper corporation,0,1,0,CORRECT,llm_right_rule_wrong
+b000g1gaac,big oil: build an oil empire,tri synergy,tri synergy,0,1,0,CORRECT,llm_right_rule_wrong
+b0002z8a1o,dance 6,digital leisure inc.,digital leisure inc.,0,1,0,CORRECT,llm_right_rule_wrong
+b000btac30,enteractive fps creator ( windows ),enteractive inc.,enteractive inc.,0,1,0,CORRECT,llm_right_rule_wrong
+b000b676fa,riding academy: jump & ride,viva media,viva media,0,1,0,CORRECT,llm_right_rule_wrong
+b000fqvxge,scansoft paperport professional 11 - 5 user license,nuance communications inc.,nuance communications inc.,0,1,0,CORRECT,llm_right_rule_wrong
+b000bnjmnc,professor fuji's sudoku (jewel case),encore software,encore software,0,1,0,CORRECT,llm_right_rule_wrong
+b000jywfq4,softgrid cal for ts 4.1 english mlp 20 user cal,microsoft,microsoft,0,1,0,CORRECT,llm_right_rule_wrong
+b000q1pyv8,instant play guitar deluxe v2.,topics entertainment,topics entertainment,0,1,0,CORRECT,llm_right_rule_wrong
+b000090179,power on now up to date & contact windows,power on software,power on software,0,1,0,CORRECT,llm_right_rule_wrong
+b00009v7hf,pcanywhere 11.0 host only cd-rom xp 98 nt w2k me,symantec,symantec,0,1,0,CORRECT,llm_right_rule_wrong
+b000exu9ay,print explosion deluxe 3.0 (mac),nova development,nova development,0,1,0,CORRECT,llm_right_rule_wrong
+b0009yx9be,aquarium 3 in 1 collection - limited edition for win/mac,encore software,encore software,0,1,0,CORRECT,llm_right_rule_wrong
+b000jgf410,money premium 2007 win32 eng na mini box us only cd,microsoft,microsoft,0,1,0,CORRECT,llm_right_rule_wrong
+b000epcfz4,perfect attorney premium,cosmi corporation,cosmi corporation,0,1,0,CORRECT,llm_right_rule_wrong
+b0000cg4gt,small business server 2003 20u cal addpak user,microsoft,microsoft,0,1,0,CORRECT,llm_right_rule_wrong
+b0000vmimw,leave the lights on (mac),aspyr media,aspyr media,0,1,0,CORRECT,llm_right_rule_wrong
+b000hhvbdq,monopoly tycoon,encore,encore,0,1,0,CORRECT,llm_right_rule_wrong
+b000ep3gei,command and conquer generals deluxe dvd-rom (mac),aspyr media,aspyr media,0,1,0,CORRECT,llm_right_rule_wrong
+b0008ews9o,instant immersion french 2.0,topics entertainment,topics entertainment,0,1,0,CORRECT,llm_right_rule_wrong
+b000cp4ja0,network now! pro by encore,encore software,encore software,0,1,0,CORRECT,llm_right_rule_wrong
+b000h6d2do,gsp crossword addict,global software publishing north america inc,global software publishing north america inc,0,1,0,CORRECT,llm_right_rule_wrong
+b000bwzy7q,world of warcraft expansion: burning crusade,blizzard entertainment,blizzard entertainment,0,1,0,CORRECT,llm_right_rule_wrong
+b000hbvvka,quickbooks point-of-sale pro with hardware bundle 6.0,intuit,intuit,0,1,0,CORRECT,llm_right_rule_wrong
+b00029bosq,mighty math number heroes,edmark,edmark,0,1,0,CORRECT,llm_right_rule_wrong
+b0001gu7g0,red hat entprse linux as 3 amd ( rhf0211us ),red hat software,red hat software,0,1,0,CORRECT,llm_right_rule_wrong
+b0009yn1rq,hoyle board games,encore,encore,0,1,0,CORRECT,llm_right_rule_wrong
+b000bt7frg,microsoft visual studio professional w/msdn professional 2005 renewal,microsoft software,microsoft software,0,1,0,CORRECT,llm_right_rule_wrong
+b000hed3fi,the print shop 22 deluxe sb cs by the print shop,encore software,encore software,0,1,0,CORRECT,llm_right_rule_wrong
+b000mgo1r0,gorilla 4 pro,jungle software,jungle software,0,1,0,CORRECT,llm_right_rule_wrong
+b000bgpqr0,instant immersion german deluxe 2.0,topics entertainment,topics entertainment,0,1,0,CORRECT,llm_right_rule_wrong
+b000j588ge,photo objects 150 000 for macintosh,nova development,nova development,0,1,0,CORRECT,llm_right_rule_wrong
+b00094oszk,microspot x-rip (mac),microspot ltd,microspot ltd,0,1,0,CORRECT,llm_right_rule_wrong
+b0000ycfdg,simple movie maker,topics entertainment,topics entertainment,0,1,0,CORRECT,llm_right_rule_wrong
+b000krd3bq,photoshop elements 4 mac retail eng 1u (19230169),adobe,adobe,0,1,0,CORRECT,llm_right_rule_wrong
+b0009jhv5e,cook'n low fat,dvo enterprises,dvo enterprises,0,1,0,CORRECT,llm_right_rule_wrong
+b000088ner,webobjects 5.2,apple,apple,0,1,0,CORRECT,llm_right_rule_wrong
+b000fzz730,english - literature basics (win/mac) (jewel case),fogware publishing,fogware publishing,0,1,0,CORRECT,llm_right_rule_wrong
+b000c55alw,virusbarrier x4 10.4 for mac-10 users,intego,intego,0,1,0,CORRECT,llm_right_rule_wrong
+b000nkpf7k,aircraft collector's second edition,abacus,abacus,0,1,0,CORRECT,llm_right_rule_wrong
+b0002bqrq8,smart steps 4th grade,dorling kindersley multimedia (dk),dorling kindersley multimedia (dk),0,1,0,CORRECT,llm_right_rule_wrong
+b00004t2un,sales skills 2.0 ages 10+,victory multimedia,victory multimedia,0,1,0,CORRECT,llm_right_rule_wrong
+b00065hjvc,solitaire antics deluxe,masque publishing,masque publishing,0,1,0,CORRECT,llm_right_rule_wrong
+b0000azvvs,notetaker 1.5,aquaminds,aquaminds,0,1,0,CORRECT,llm_right_rule_wrong
+b000ra5bl6,jewels of cleopatra,encore software,encore software,0,1,0,CORRECT,llm_right_rule_wrong
+b0002dlrru,instant immersion italian platinum,topics entertainment,topics entertainment,0,1,0,CORRECT,llm_right_rule_wrong
+b00026s6da,talk now! learn dutch,eurotalk interactive,eurotalk interactive,0,1,0,CORRECT,llm_right_rule_wrong
+b000e65hki,punch! home design architectural series 4000 v10,punch! software,punch! software,0,1,0,CORRECT,llm_right_rule_wrong
+b000etjjae,call of duty 2 dvd-rom (mac),aspyr media,aspyr media,0,1,0,CORRECT,llm_right_rule_wrong
+b000fhgu6q,media kit storage foundation basic lnx v4.1 cpu vol-4 file sys-4,veritas,veritas,0,1,0,CORRECT,llm_right_rule_wrong
+b0001mbatc,black & white platinum pack (mac),feral interactive,feral interactive,0,1,0,CORRECT,llm_right_rule_wrong
+b000qfrt4o,professional home design suite platinum,punch! software,punch! software,0,1,0,CORRECT,llm_right_rule_wrong
+b000nkklwe,casual games pack,egames,egames,0,1,0,CORRECT,llm_right_rule_wrong
+b0002c3vqq,on hand spanish 1-2-3 ( windows ),on hand software,on hand software,0,1,0,CORRECT,llm_right_rule_wrong
+b000frs492,kakuro puzzle addict unlimited edition,global software publishing,global software publishing,0,1,0,CORRECT,llm_right_rule_wrong
+b000e2d3lc,rome total war gold edition,sega of america inc.,sega of america inc.,0,1,0,CORRECT,llm_right_rule_wrong
+b000hc0lw8,quickbooks pro 2007 for mac (mac),intuit,intuit,0,1,0,CORRECT,llm_right_rule_wrong
+b00006oaqv,reader rabbit learn to read phonics pre kindergarten,the learning company,the learning company,0,1,0,CORRECT,llm_right_rule_wrong
+b000bb6f5m,ultimate puzzle games,valusoft,valusoft,0,1,0,CORRECT,llm_right_rule_wrong
+b000o3d9ce,high school advantage 2008,encore,encore,0,1,0,CORRECT,llm_right_rule_wrong
+b0002ibeve,cyberchase adventures: carnival chaos and casablanca quest,brighter minds media inc.,brighter minds media inc.,0,1,0,CORRECT,llm_right_rule_wrong
+b000lu9cwg,mozy 3.0,simply put software llc,simply put software llc,0,1,0,CORRECT,llm_right_rule_wrong
+b000hkpb3e,zonealarm internet security suite,zone labs,zone labs,0,1,0,CORRECT,llm_right_rule_wrong
+b000aaqzpe,namco museum 50th anniversary collection,namco video games,namco video games,0,1,0,CORRECT,llm_right_rule_wrong
+b000he9psc,the print shop 22 pro publisher deluxe sb cs by the print shop,encore software,encore software,0,1,0,CORRECT,llm_right_rule_wrong
+b000hcu7b8,guild wars nightfall,ncsoft,ncsoft,0,1,0,CORRECT,llm_right_rule_wrong
+b000h27puo,montage (mac),mariner software,mariner software,0,1,0,CORRECT,llm_right_rule_wrong
+b000bwa1jw,professor fujis sudoku deluxe by encore,encore software,encore software,0,1,0,CORRECT,llm_right_rule_wrong
+b000fzxiou,geometry (win/mac) (jewel case),fogware publishing,fogware publishing,0,1,0,CORRECT,llm_right_rule_wrong
+b0001gjc52,cross stitch design studio (jewel case),m and r technologies,m and r technologies,0,1,0,CORRECT,llm_right_rule_wrong
+b000nknb44,alien disco safari,encore,encore,0,1,0,CORRECT,llm_right_rule_wrong
+b00062vfec,f/a-18 operation iraqi freedom,graphics simulations corporation,graphics simulations corporation,0,1,0,CORRECT,llm_right_rule_wrong
+b0009i5px0,norton antivirus mac 10.0 (mac),symantec,symantec,0,1,0,CORRECT,llm_right_rule_wrong
+b000bwbu6u,mavis beacon typing 17 (win/mac),encore software,encore software,0,1,0,CORRECT,llm_right_rule_wrong
+b000bckm7i,mavis beacon teaches typing deluxe v17,encore software,encore software,0,1,0,CORRECT,llm_right_rule_wrong
+b00032q1hq,lotus dev. ibm db2 net search extender - ( v. 8.2 ) - media ( bb0kyna ),lotus development corp,lotus development corp,0,1,0,CORRECT,llm_right_rule_wrong
+b000gcd6qc,giggles computer funtime for baby - shapes (win/mac),navarre (software),navarre (software),0,1,0,CORRECT,llm_right_rule_wrong
+b000m06st0,upgrade robohelp server 6 win ue 1u,adobe,adobe,0,1,0,CORRECT,llm_right_rule_wrong
+b000u1w4us,wavelab studio 6,steinberg media technologies,steinberg media technologies,0,1,0,CORRECT,llm_right_rule_wrong
+b000bt8trg,microsoft visual studio professional 2005 upgrade,microsoft software,microsoft software,0,1,0,CORRECT,llm_right_rule_wrong
+b000g7wses,peachtree by sage premium accounting for manufacturing 2007 multi user (up to 5 users),sage software,sage software,0,1,0,CORRECT,llm_right_rule_wrong
+b000f4ei40,genuine fractals print pro 4.1 sharpener pro 2.0,onone software,onone software,0,1,0,CORRECT,llm_right_rule_wrong
+b000jx1kgq,starship troopers/first to fight bundle,destineer,destineer,0,1,0,CORRECT,llm_right_rule_wrong
+b000eplmpi,printmaster gold v 17.0,nova development,nova development,0,1,0,CORRECT,llm_right_rule_wrong

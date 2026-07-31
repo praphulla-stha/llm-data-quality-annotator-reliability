@@ -1,0 +1,40 @@
+id,title,manufacturer_shown,true_manufacturer,is_mislabeled,rule_pred_mislabeled,llm_pred_mislabeled,raw_response,category
+b0009jearq,photoedit 2 (mac),software cinema,macware,1,1,0,CORRECT,rule_right_llm_wrong
+b000bgpqos,instant immersion japanese deluxe 2.0,global software publ na,topics entertainment,1,1,0,CORRECT,rule_right_llm_wrong
+b00083grii,quickstart photo montage studio,topics education,selectsoft publishing,1,1,0,CORRECT,rule_right_llm_wrong
+b000kg86b4,mediapilot kit,cosmi corporation,susteen,1,1,0,CORRECT,rule_right_llm_wrong
+b000nkpf7u,spongebob squarepants typing 2008 win/mac,vivendi,encore software,1,1,0,CORRECT,rule_right_llm_wrong
+b00009nfc1,marine aquarium 2.0 (mac),digital leisure inc.,encore,1,1,0,CORRECT,rule_right_llm_wrong
+b000300guq,netmanage onweb web-to-host - ( v. 5.1 ) - upgrade license ( 910443-004 ),findex.com inc,netmanage,1,1,0,CORRECT,rule_right_llm_wrong
+b00004ochj,punch! ultimate deck and landscape,red mile,punch! software,1,1,0,CORRECT,rule_right_llm_wrong
+b000eavbrw,library expansion option-upg,nuance communications inc.,novastor corporation,1,1,0,CORRECT,rule_right_llm_wrong
+b000gcgqvy,snap! kakuro,core learning,topics entertainment,1,1,0,CORRECT,rule_right_llm_wrong
+b00009apna,the printshop 20 professional publisher,topics entertainment,broderbund,1,1,0,CORRECT,rule_right_llm_wrong
+b0007sxgn8,varmint hunter (jewel case),victory multimedia,encore,1,1,0,CORRECT,rule_right_llm_wrong
+b000pijszk,usa/world extreme landscapes bundle,imsi design,abacus,1,1,0,CORRECT,rule_right_llm_wrong
+b0007ly3zu,burning monkey mahjongg (mac),digital leisure inc.,freeverse software,1,1,0,CORRECT,rule_right_llm_wrong
+b00008wiww,snap! spelling (jewel case),school zone interactive,topics entertainment,1,1,0,CORRECT,rule_right_llm_wrong
+b00076ywj2,eovia carrara 4 pro win/mac,imagination international corp,eovia corporation,1,1,0,CORRECT,rule_right_llm_wrong
+b000v809mk,systemsuite 8 professional,now software,individual software,1,1,0,CORRECT,rule_right_llm_wrong
+b000in6tnq,liquid ledger personal finance,united developers,csdc,1,1,0,CORRECT,rule_right_llm_wrong
+b000bckmaa,stationery design studio,mobi,summit software,1,1,0,CORRECT,rule_right_llm_wrong
+b000i2y0cy,norton antivirus 2007,symantec - media,symantec,1,1,0,CORRECT,rule_right_llm_wrong
+b000ea9u2a,modeless liquid ledger personal finance software (mac),megasystems,csdc,1,1,0,CORRECT,rule_right_llm_wrong
+b000aa87pu,art explosion t-shirt factory deluxe 3.0,veritas,nova development,1,1,0,CORRECT,rule_right_llm_wrong
+b000230e4m,recam remote monitoring software,microspot ltd.,mobi technologies inc.,1,1,0,CORRECT,rule_right_llm_wrong
+b000bu7u48,dance praise with dance pad (win/mac),simply put software llc,digital praise,1,1,0,CORRECT,rule_right_llm_wrong
+b0007prnjo,paper art: gift wrapping,red mile,arc media inc.,1,1,0,CORRECT,rule_right_llm_wrong
+b000h5j4ka,pc vegas dvd,serious magic,sony pictures home entertainment,1,1,0,CORRECT,rule_right_llm_wrong
+b000pihtec,weekly reader preparing for kindergarten,imagination international,fogware publishing,1,1,0,CORRECT,rule_right_llm_wrong
+b000a7q6n8,now up-to-date & contact v5.0 (mac),dk,now software,1,1,0,CORRECT,rule_right_llm_wrong
+b000io7a9m,brain food games: cranium collection 2006,neso usa,encore,1,1,0,CORRECT,rule_right_llm_wrong
+b000i3g30k,money home & business 2007 win32 eng na mini box us only cd,imsi design,microsoft,1,1,0,CORRECT,rule_right_llm_wrong
+b0000cdvuh,learn to play keyboard (jewel case),victory multimedia,alfred publishing,1,1,0,CORRECT,rule_right_llm_wrong
+b000hcmtly,exceed 2007 with 1yr mnt 1u,global software,hummingbird communications,1,1,0,CORRECT,rule_right_llm_wrong
+b00030cbu4,ae painter v9 win/mac box,imagination international corp,corel corp,1,1,0,CORRECT,rule_right_llm_wrong
+b0008ewsf8,instant immersion spanish 2.0,mumbo jumbo,topics entertainment,1,1,0,CORRECT,rule_right_llm_wrong
+b000pihtbk,weekly reader mastering elementary/middle school math learning,neso usa,fogware publishing,1,1,0,CORRECT,rule_right_llm_wrong
+b000exs47y,hoyle puzzle & board games,nero inc.,encore software,1,1,0,CORRECT,rule_right_llm_wrong
+b00099xf0e,synet pc sharing kit(w/17ft usb ext.cable),iplaymusic,synet electronics inc.,1,1,0,CORRECT,rule_right_llm_wrong
+b000bgtvbc,instant immersion translator deluxe 2.0,dvo enterprises,topics entertainment,1,1,0,CORRECT,rule_right_llm_wrong
+b0009yegcu,instant architect design suite,simply put software llc,imsi design,1,1,0,CORRECT,rule_right_llm_wrong
